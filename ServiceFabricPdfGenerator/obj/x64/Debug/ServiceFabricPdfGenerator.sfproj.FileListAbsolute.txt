@@ -1,0 +1,2 @@
+C:\Code\Reference\AbcPdf\ConsoleApp\AcbPdfConverter\ServiceFabricPdfGenerator\obj\x64\Debug\ServiceFabricPdfGenerator.sfprojResolveAssemblyReference.cache
+C:\Code\Reference\AbcPdf\AcbPdfConverter\ServiceFabricPdfGenerator\obj\x64\Debug\ServiceFabricPdfGenerator.sfprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+
+
+		<html>
+		<body>
+         <table id="singleHeading" ng-show="singleHeading">
+		 <tr>
+		
+		 <td ng-repeat="header in ReportData.Headers" class="ng-binding ng-scope">
+		 Site ID</td> 
+		 
+		 <!-- end ngRepeat: header in ReportData.Headers -->
+		 
+		 <td ng-repeat="header in ReportData.Headers" class="ng-binding ng-scope">
+		 Equipment Name   </td>
+		  </tr>
+		 
+		<tr ng-repeat="row in ReportData.TableContent" class="ng-scope">
+		 <!-- ngRepeat: header in ReportData.Headers -->
+		  <td ng-repeat="header in ReportData.Headers" class="ng-binding ng-scope">litcsiteint</td>
+		  <!-- end ngRepeat: header in ReportData.Headers -->
+		<td ng-repeat="header in ReportData.Headers" class="ng-binding ng-scope">RTU 1</td>
+		</tr>
+
+		
+		</table>
+		</body>
+		 </html>
